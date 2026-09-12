@@ -77,6 +77,7 @@ Execução do Cenário 2 (falha)
 <img width="541" height="237" alt="Screenshot 2026-09-12 083549" src="https://github.com/user-attachments/assets/42a9dea5-4878-4ef0-8e5b-500340836d01" />
 
 Resultado da análise energética
+
 <img width="388" height="100" alt="Screenshot 2026-09-12 083714" src="https://github.com/user-attachments/assets/52b7a41d-a078-45e7-9ac8-4f57ea75ea36" />
 
 
